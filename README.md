@@ -1,6 +1,8 @@
 # SketchQuizGame
 [네트워크 프로그래밍 팀 프로젝트] 윈도우 소켓을 사용한 스케치 퀴즈 게임 프로그램
 
+<img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_8.png?raw=true" alt="Image 8" width="700">
+
 
 ## 요약
 네트워크 프로그래밍의 팀 프로젝트 공통 주제로 그림판과 채팅 기능 등의 요구사항이 있지만,
