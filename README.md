@@ -45,30 +45,30 @@
 ---
 <table>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="500">
-        <figcaption style="text-align: center;">Github 협업 사진</figcaption>
+        <figcaption>Github 협업 사진</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="500">
-        <figcaption style="text-align: center;">Notion : 명세서 작성</figcaption>
+        <figcaption>Notion : 명세서 작성</figcaption>
       </figure>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_3.png?raw=true" alt="Image 1" width="500">
-        <figcaption style="text-align: center;">Notion : Backlog 정리</figcaption>
+        <figcaption>Notion : Backlog 정리</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_4.png?raw=true" alt="Image 2" width="500">
-        <figcaption style="text-align: center;">Figma : 와이어 프레임 작성</figcaption>
+        <figcaption>Figma : 와이어 프레임 작성</figcaption>
       </figure>
     </td>
   </tr>
