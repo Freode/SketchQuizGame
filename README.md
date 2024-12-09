@@ -2,8 +2,14 @@
 [네트워크 프로그래밍 팀 프로젝트] 윈도우 소켓을 사용한 스케치 퀴즈 게임 프로그램
 
 
+## 요약
+네트워크 프로그래밍의 팀 프로젝트 공통 주제로 그림판과 채팅 기능 등의 요구사항이 있지만,
+타 팀과 차별성을 두기 위해 게임성을 추가한 스케치 퀴즈 게임 프로그램을 제작했습니다.
+약 1달의 기간동안 기획, 일정 관리부터 구현, PT까지 성공적으로 마무리했습니다.
+
+
 ## 기간
-2023.11. ~ 2023.12.
+2023.11.06. ~ 2023.12.11.
 
 
 ## 참여 인원
@@ -11,6 +17,8 @@
 
 <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_5.png?raw=true" alt="Image 5" width="1200">
 ---
+
+
 팀원 Git 링크
 - 성지윤 :
 - 김연경 :
@@ -73,6 +81,7 @@
 ## 본인 역할
 ![본인 역할](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_7.png)
 
+
 - 도형 추가 및 그리기 모드
 - WSAAsyncSelect 소켓 입출력 모델 적용
 - UDP 그룹 통신
@@ -84,7 +93,7 @@
 
 ## 시연 영상
 [![시연 영상](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_8.png)](https://youtu.be/PYpVsFuc190)
-https://youtu.be/PYpVsFuc190
+- 클릭하시면, 시연 영상으로 이동합니다.
 
 
 ## 느낀점
