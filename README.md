@@ -59,15 +59,14 @@
 
 
 ## 설명
-<img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_6.png?raw=true" alt="Image 6" width="1200">
-<figcaption style="text-align: center;">플로우 차트</figcaption>
+![플로우 차트](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_6.png)
 
 
 윈도우
 
 
 ## 본인 역할
-<img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_7.png?raw=true" alt="Image 7" width="1200">
+![본인 역할](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_7.png)
 <figcaption style="text-align: center;">붉은색 네모 박스</figcaption>
 - 도형 추가 및 그리기 모드
 - WSAAsyncSelect 소켓 입출력 모델 적용
