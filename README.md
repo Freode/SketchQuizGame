@@ -24,7 +24,7 @@
   <tr>
     <td><img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true
 " alt="Image 1" width="150"></td>
-    <td><img src = "" alt="Image 1" width="150"></td>
+    <td><img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="150"></td>
   </tr>
 </table>
 
