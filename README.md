@@ -2,6 +2,10 @@
 [네트워크 프로그래밍 팀 프로젝트] 윈도우 소켓을 사용한 스케치 퀴즈 게임 프로그램
 
 
+---
+
+
+
 ## 기간
 2023.11. ~ 2023.12.
 
@@ -9,7 +13,12 @@
 ## 참여 인원
 - 성지윤(팀장), 최지안, 최정호, 김연경
 
+<img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_5.png?raw=true" alt="Image 5" width="800">
 
+## 언어
+- C & C++
+
+  
 ## 사용 툴
 - Visual Studio
 
@@ -50,10 +59,6 @@
     </td>
   </tr>
 </table>
-
-
-## 언어
-- C & C++
 
 
 ## 본인 역할
