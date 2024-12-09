@@ -47,13 +47,13 @@
   <tr>
     <td>
       <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="400">
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="500">
         <figcaption style="text-align: center;">Github 협업 사진</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="400">
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="500">
         <figcaption style="text-align: center;">Notion : 명세서 작성</figcaption>
       </figure>
     </td>
@@ -61,13 +61,13 @@
   <tr>
     <td>
       <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_3.png?raw=true" alt="Image 1" width="400">
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_3.png?raw=true" alt="Image 1" width="500">
         <figcaption style="text-align: center;">Notion : Backlog 정리</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_4.png?raw=true" alt="Image 2" width="400">
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_4.png?raw=true" alt="Image 2" width="500">
         <figcaption style="text-align: center;">Figma : 와이어 프레임 작성</figcaption>
       </figure>
     </td>
