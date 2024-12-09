@@ -25,13 +25,13 @@
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="400">
-        <figcpation style="text-align: center;">Github 협업 사진</figcpation>
+        <figcaption style="text-align: center;">Github 협업 사진</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="400">
-        <figcpation style="text-align: center;">Notion 사용</figcpation>
+        <figcaption style="text-align: center;">Notion 사용</figcaption>
       </figure>
     </td>
   </tr>
@@ -39,13 +39,13 @@
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_3.png?raw=true" alt="Image 1" width="400">
-        <figcpation style="text-align: center;">Github 협업 사진</figcpation>
+        <figcaption style="text-align: center;">Github 협업 사진</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_4.png?raw=true" alt="Image 2" width="400">
-        <figcpation style="text-align: center;">Notion 사용</figcpation>
+        <figcaption style="text-align: center;">Notion 사용</figcaption>
       </figure>
     </td>
   </tr>
