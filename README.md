@@ -22,8 +22,8 @@
 ---
 <table>
   <tr>
-    <td><img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="300"></td>
-    <td><img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="300"></td>
+    <td><img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="400"></td>
+    <td><img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="400"></td>
   </tr>
 </table>
 
