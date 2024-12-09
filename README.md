@@ -25,7 +25,7 @@
     <td>
       <figure>
         <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="400">
-        <figcaption style="text-align: center;">Github 협업 사진</figcaption>
+        <figcaption style="text-align: center;">Image 1: Github 협업 사진</figcaption>
       </figure>
     </td>
     <td>
