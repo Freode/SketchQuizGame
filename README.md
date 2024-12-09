@@ -67,7 +67,7 @@
 
 ## 본인 역할
 ![본인 역할](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_7.png)
-<figcaption style="text-align: center;">붉은색 네모 박스</figcaption>
+
 - 도형 추가 및 그리기 모드
 - WSAAsyncSelect 소켓 입출력 모델 적용
 - UDP 그룹 통신
