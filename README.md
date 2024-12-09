@@ -10,6 +10,11 @@
 - 성지윤(팀장), 최지안, 최정호(본인), 김연경
 
 <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_5.png?raw=true" alt="Image 5" width="1200">
+---
+팀원 Git 링크
+- 성지윤 :
+- 김연경 :
+- 최지안 :
 
 
 ## 언어
@@ -77,8 +82,11 @@
 - PT
 
 
-## 
+## 시연 영상
+[![시연 영상](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_8.png)](https://youtu.be/PYpVsFuc190)
+https://youtu.be/PYpVsFuc190
 
-## 결과
+
+## 느낀점
 - 
 
