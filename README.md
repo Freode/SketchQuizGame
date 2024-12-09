@@ -16,6 +16,10 @@
 - 성지윤(팀장), 최지안, 최정호(본인), 김연경
 
 <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_5.png?raw=true" alt="Image 5" width="1200">
+
+
+- 비중 : FE(25%), BE(25%), 문서 정리(10%), PT(50%)
+
 ---
 
 
@@ -75,7 +79,7 @@
 ![플로우 차트](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_6.png)
 
 
-윈도우
+설명설명
 
 
 ## 본인 역할
@@ -97,5 +101,5 @@
 
 
 ## 느낀점
-- 
+- Unity나 Unreal Enigne과 같은 게임 엔진을 사용하지 않은 게임 개발은 처음이였습니다. 
 
