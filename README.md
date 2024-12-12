@@ -85,13 +85,27 @@
 ![본인 역할](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_7.png)
 
 
-- 도형 추가 및 그리기 모드
-- WSAAsyncSelect 소켓 입출력 모델 적용
-- UDP 그룹 통신
-- UDP 프로토콜 지원
-- 넌블로킹 소켓
 - 보고서 & PPT
 - PT
+
+
+## 세부 개발 파트
+
+
+### 도형 추가 및 그리기 모드
+
+
+### WSAAsyncSelect 소켓 입출력 모델 적용
+
+
+### UDP 그룹 통신
+
+
+### UDP 프로토콜 지원
+
+
+### 넌블로킹 소켓
+
 
 
 ## 시연 영상
