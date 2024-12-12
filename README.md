@@ -78,11 +78,11 @@
 
 
 ## 플로우 차트
-![플로우 차트](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_6.png)
+![플로우 차트](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_10.png)
 
 
 ## 본인 역할
-![본인 역할](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_7.png)
+![본인 역할](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_11.png)
 
 
 - 보고서 & PPT
