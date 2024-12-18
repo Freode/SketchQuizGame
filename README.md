@@ -93,7 +93,19 @@
 
 
 ### 도형 추가 및 그리기 모드
-![도형 추가 및 그리기 모드](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_12.png)
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_12.png?raw=true" alt="Image 5" width="500">
+      </figure>
+    <td>
+      <figure>
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_GIF_1.gif?raw=true" alt="GIF 1" width="500">
+      </figure>
+    </td>
+  </tr>
+</table>
 
 
 ### WSAAsyncSelect 소켓 입출력 모델 적용
