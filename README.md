@@ -113,7 +113,19 @@
 
 
 ### UDP 그룹 통신
-![UDP 그룹 통신](https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_16.png)
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_16.png?raw=true" alt="Image 6" width="500">
+      </figure>
+    <td>
+      <figure>
+        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_GIF_2.gif?raw=true" alt="GIF 2" width="500">
+      </figure>
+    </td>
+  </tr>
+</table>
 
 
 ### UDP 프로토콜 지원
